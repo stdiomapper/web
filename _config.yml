@@ -3,7 +3,7 @@
 
 title: MapZenith
 url: "https://stdiomapper.github.io/web/"
-baseurl:
+baseurl: "https://stdiomapper.github.io/web/"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
