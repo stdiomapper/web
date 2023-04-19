@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: Perform Mace
-url: "enigmaticmachines.github.io/performance"
+title: MapZenith
+url: "https://stdiomapper.github.io/web/"
 baseurl:
-google_analytics_key: G-RMT4WQDHZ3
+google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: Map Zenith
   links:
     - https://github.com/CloudCannon/hydra-jekyll-template
 
