@@ -1,0 +1,19 @@
+Block1
+What do we aim to solve?
+As game developers, we couldn't test our game's performance without manually disconnecting and reconnecting multiple GPUs. 
+Even worse, we weren't sure how many people actually do have the hardware to play our game. 
+We aim to solve this with our custom infrastructure, where you will be able to test your game on multiple GPUs, CPUs, and RAMs, 
+and obtain report of your game's accessibility depending on Steam's Hardware Survey.
+
+Block2
+Our game testing service ensures that your game runs flawlessly on all the most popular gaming hardware, 
+giving you the confidence to release a game that will satisfy your players and boost your sales.
+
+Block3
+We understand that game testing can be time-consuming and expensive, which is why we offer 
+an affordable and efficient automated testing service that provides detailed reports and charts 
+to help you optimize your game quickly and easily.
+
+Block4
+Even if you have a great game, poor performance on popular hardware can cost you a lot of money. 
+We want to help you ensure that your game performs well on all types of popular gamer’s hardware.
